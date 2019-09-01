@@ -3,8 +3,9 @@
 ## Screenshots
 
 ### Main Page
-![alt text](./screenshots/todo.png)
+![alt text](/screenshots/todo.png)
 
+![alt text](/screenshots/todo.png)
 
 # Author
 - Aju Tamang
