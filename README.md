@@ -5,8 +5,6 @@
 ### Main Page
 ![alt text](/screenshots/todo.png.png)
 
-![alt text](/screenshots/todo.png)
-
 # Author
 - Aju Tamang
 
