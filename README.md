@@ -5,5 +5,16 @@
 ### Main Page
 ![alt text](./screenshots/todo.png)
 
+
 # Author
 - Aju Tamang
+
+
+# Tools
+## Frontend
+- HTML
+- CSS
+
+## BACKEND
+- Django & Python
+- SQLITE (Database)
